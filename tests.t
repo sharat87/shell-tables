@@ -1,6 +1,6 @@
 Load the library.
 
-  $ source "$TESTDIR/tables.zsh"
+  $ source "$TESTDIR/tables.sh"
 
 Create a new table.
 
